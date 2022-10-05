@@ -1,3 +1,4 @@
+/*
 package com.leftovers.order;
 
 import org.junit.jupiter.api.Test;
@@ -22,3 +23,4 @@ public class checkHTTPResponse {
                 .getForObject("http://localhost:" + port + "/", String.class));
     }
 }
+*/
